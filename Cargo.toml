@@ -1,0 +1,9 @@
+[package]
+name = "ggwp-lgui"
+description = "Minimal and opinionated UI library for ggez game engine, developed for the Gemini project"
+version = "0.0.0"
+authors = ["holmgr <viktor.holmgren@gmail.com>"]
+keywords = ["ggez", "gamedev", "gui"]
+license = "MIT"
+
+[dependencies]
